@@ -129,3 +129,23 @@ h4{
     color: rgb(4,88,121);
     text-align: justify;
 }
+
+.hobby{
+    background-color: white;
+    border-style: dotted;
+    border-width: 3px;
+    color: rgb(4,88,121);
+    padding: 25px;
+    width: 100%;
+    margin-top: 25px;
+}
+
+.dream{
+    background-color: white;
+    border-style: dotted;
+    border-width: 3px;
+    color: rgb(4,88,121);
+    padding: 25px;
+    width: 100%;
+    margin-top: 25px;
+}
